@@ -1,0 +1,6 @@
+flask
+flask-cors
+pyngrok
+supabase
+python-dotenv
+google-genai
